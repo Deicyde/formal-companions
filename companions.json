@@ -1,0 +1,37 @@
+{
+  "schema": "formal-companions/registry",
+  "schema_version": 1,
+  "formal_companion": "768b0f935c228561c4d6730347e87ececb2143ab",
+  "companions": [
+    {
+      "slug": "ternary-goldbach-book",
+      "repository": "https://github.com/Deicyde/ternary-goldbach-companion",
+      "commit": "2e5266ec197c3ce49cd0d93b16b913b276adbc52",
+      "path": "book"
+    },
+    {
+      "slug": "ternary-goldbach-2013",
+      "repository": "https://github.com/Deicyde/ternary-goldbach-companion",
+      "commit": "2e5266ec197c3ce49cd0d93b16b913b276adbc52",
+      "path": "paper-2013"
+    },
+    {
+      "slug": "yang-mills",
+      "repository": "https://github.com/Deicyde/yang-mills-companion",
+      "commit": "c79a533e40a29e0c199c3af73b1fe99888537da3",
+      "path": "manuscript"
+    },
+    {
+      "slug": "z-diophantine-q",
+      "repository": "https://github.com/Deicyde/diophantine-z-q",
+      "commit": "96649019f2b4424710ed8d49ec222a019e85fbe7",
+      "path": "docs/companion/manuscript"
+    },
+    {
+      "slug": "navier-stokes",
+      "repository": "https://github.com/mathlib-initiative/navier-stokes-companion",
+      "commit": "9f2977eb65241fff89e2dcabcde70780d6668e5c",
+      "path": "."
+    }
+  ]
+}
