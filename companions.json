@@ -6,13 +6,13 @@
     {
       "slug": "ternary-goldbach-book",
       "repository": "https://github.com/Deicyde/ternary-goldbach-companion",
-      "commit": "702d5c9f9b147b3f686854a39c0fba2b9bbad40d",
+      "commit": "761f0d3f3170cdfc5c4e96a1fc852596e281896a",
       "path": "book"
     },
     {
       "slug": "ternary-goldbach-2013",
       "repository": "https://github.com/Deicyde/ternary-goldbach-companion",
-      "commit": "702d5c9f9b147b3f686854a39c0fba2b9bbad40d",
+      "commit": "761f0d3f3170cdfc5c4e96a1fc852596e281896a",
       "path": "paper-2013"
     },
     {
@@ -24,7 +24,7 @@
     {
       "slug": "z-diophantine-q",
       "repository": "https://github.com/Deicyde/diophantine-z-q",
-      "commit": "96649019f2b4424710ed8d49ec222a019e85fbe7",
+      "commit": "320e81c0c878dadd6e81bac494c19f5cd0fe1c5e",
       "path": "docs/companion/manuscript"
     },
     {
