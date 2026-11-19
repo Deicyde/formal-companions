@@ -6,13 +6,13 @@
     {
       "slug": "ternary-goldbach-book",
       "repository": "https://github.com/Deicyde/ternary-goldbach-companion",
-      "commit": "2e5266ec197c3ce49cd0d93b16b913b276adbc52",
+      "commit": "209bb6584f228155cd499bdb1b695c9fee0a5245",
       "path": "book"
     },
     {
       "slug": "ternary-goldbach-2013",
       "repository": "https://github.com/Deicyde/ternary-goldbach-companion",
-      "commit": "2e5266ec197c3ce49cd0d93b16b913b276adbc52",
+      "commit": "209bb6584f228155cd499bdb1b695c9fee0a5245",
       "path": "paper-2013"
     },
     {
