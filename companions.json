@@ -6,19 +6,19 @@
     {
       "slug": "ternary-goldbach-book",
       "repository": "https://github.com/Deicyde/ternary-goldbach-companion",
-      "commit": "209bb6584f228155cd499bdb1b695c9fee0a5245",
+      "commit": "702d5c9f9b147b3f686854a39c0fba2b9bbad40d",
       "path": "book"
     },
     {
       "slug": "ternary-goldbach-2013",
       "repository": "https://github.com/Deicyde/ternary-goldbach-companion",
-      "commit": "209bb6584f228155cd499bdb1b695c9fee0a5245",
+      "commit": "702d5c9f9b147b3f686854a39c0fba2b9bbad40d",
       "path": "paper-2013"
     },
     {
       "slug": "yang-mills",
       "repository": "https://github.com/Deicyde/yang-mills-companion",
-      "commit": "c79a533e40a29e0c199c3af73b1fe99888537da3",
+      "commit": "9ebc3c1cb3bbf386a5a175d2c2263440a1abd66c",
       "path": "manuscript"
     },
     {
